@@ -3,8 +3,8 @@ import React from 'react';
 
 const QRCode = () => {
     return (
-        <div className='container'>
-            <Card>
+        <div className='container mx-auto'>
+            <Card className='w-fit shadow-lg p-5 mx-auto '>
                 <Typography variant='h3' className='font-semibold'>
                     Improve your front-end skills by building projects
                 </Typography>
