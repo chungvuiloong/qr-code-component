@@ -8,7 +8,7 @@ function App() {
     <ThemeProvider>    
         <div className='relative h-[100vh] flex flex-col justify-center mx-auto'>
             <QRCode />
-                <div className='my-10 absolute bottom-0 self-center '>
+                <div className='py-10 absolute bottom-0 bg-[#262626] w-full text-white text-center'>
                     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">Frontend Mentor</a>. 
                     Coded by <a href="#">Your Name Here</a>.
             </div>
