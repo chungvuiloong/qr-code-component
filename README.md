@@ -60,4 +60,4 @@ The card used to create this qr code component can be further upgraded and repur
 
 - Website - [Jere Sulovuo/ MrJay's Simple Portfolio](https://mrjays-simple-portfolio.vercel.app/)
 - Github - [Jere Sulovuo (MrJay)](https://github.com/jeresulovuo)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@jirimicvl](https://www.frontendmentor.io/profile/jirimicvl)
