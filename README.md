@@ -25,6 +25,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+- First I studied the given desktop and mobile screenshot.
+- After understanding the front-end, I planned to used React.js library (to be recycled into future projects), TailwindWind CSS (To style the components and projects), Material Tailwind (CSS components to better customise the components.)
+- At the same time, I also structured it into three components. 
+  - App page for the whole page layout
+  - QR card component
+  - Footer component
+- Starting with App page, it will provide a structure for to import QR component and footer component in desktop and mobile view.
+  - App will be full height view and relative. (so that footer can be at the bottom).
+  - App will be a flexbox to center the contents of QR code component in the center like the given screenshot design.
+- Next QR Code component. I break it down into three parts: The Image, h5 typography and paragraph typography.
+  - Using flex, it organised the content into column view.
+  - Only view flex, the gap class can be utilise to give even spaces between each tag.
+  - Other css are added to make it look like Figma design, rounded radius, padding, font-bold.
+- Lastly footer, since the app is relative. Footer is absolute and bottom-0 placing it at the bottom of a relative parent.
+  - Instead of following the default footer, this footer has a dark-grey background with padding of py-10.
+
+
+
 ### Built with
 
 - HTML
