@@ -10,7 +10,7 @@ const QRCode = () => {
                 <Typography variant='h5' color='black' className='mt-2 font-bold'>
                     Improve your front-end skills by building projects
                 </Typography>
-                <Typography variant='paragraph' className='mb-5'>
+                <Typography variant='paragraph' className='mb-5 font-normal opacity-70'>
                     Scan the QR Code to visit Frontend Mentor and take your coding skills to the next level
                 </Typography>
             </Card>
