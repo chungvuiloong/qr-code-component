@@ -21,4 +21,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](./src/assets/design/Screenshot.jpg)
+![Screenshot](https://github.com/jeresulovuo/qr-code-component/blob/main/src/assets/design/Screenshot.png)
