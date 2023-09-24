@@ -15,10 +15,26 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
 ![Screenshot](https://github.com/jeresulovuo/qr-code-component/blob/main/src/assets/design/Screenshot.png)
+
+### Links
+
+- Solution URL: [Github](https://github.com/jeresulovuo/qr-code-component)
+- Live Site URL: [Vercel](https://mrjay-qrcode-component.vercel.app/)
+
+## My process
+
+### Built with
+- <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
+
