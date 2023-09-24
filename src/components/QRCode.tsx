@@ -5,7 +5,7 @@ const QRCode = () => {
     return (
         <div className='container mx-auto'>
             <Card className='w-fit shadow-lg p-5 mx-auto '>
-                <Typography variant='h3' className='font-semibold'>
+                <Typography variant='h3' className='font-bold'>
                     Improve your front-end skills by building projects
                 </Typography>
                 <Typography variant='paragraph'>
