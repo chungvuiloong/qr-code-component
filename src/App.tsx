@@ -8,9 +8,9 @@ function App() {
     <ThemeProvider>    
         <div className='relative h-[100vh] flex flex-col justify-center mx-auto'>
             <QRCode />
-            <div className='absolute bottom-0'>
-                Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">Frontend Mentor</a>. 
-                Coded by <a href="#">Your Name Here</a>.
+                <div className='my-10 absolute bottom-0 self-center '>
+                    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">Frontend Mentor</a>. 
+                    Coded by <a href="#">Your Name Here</a>.
             </div>
         </div>
     </ThemeProvider>
