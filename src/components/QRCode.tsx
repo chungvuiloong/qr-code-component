@@ -5,7 +5,7 @@ import QR_logo from '../assets/images/image-qr-code.png'
 const QRCode = () => {
     return (
         <div className='container mx-auto'>
-            <Card className='w-[300px] shadow-lg p-3 mx-auto '>
+            <Card className='w-[300px] shadow-lg p-3 mx-auto text-center'>
                 <img src={QR_logo} alt="QR code" />
                 <Typography variant='h5' className='font-bold'>
                     Improve your front-end skills by building projects
