@@ -9,12 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 
@@ -25,16 +21,25 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/jeresulovuo/qr-code-component)
-- Live Site URL: [Vercel](https://mrjay-qrcode-component.vercel.app/)
+- Live Site URL: [Vercel](https://mrjays-qrcode-component.vercel.app/)
 
 ## My process
 
 ### Built with
-- <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
 
+- HTML
+- CSS
+- Flexbox
+- [React](https://reactjs.org/) - JS library
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Material Tailwind](https://www.material-tailwind.com/)
+
+### Continued development
+
+The card used to create this qr code component can be further upgraded and repurposed for another project. This can be further improved for different designs such as qr code on the left side and the text on the right side.
+
+## Author
+
+- Website - [Jere Sulovuo/ MrJay's Simple Portfolio](https://mrjays-simple-portfolio.vercel.app/)
+- Github - [Jere Sulovuo (MrJay)](https://github.com/jeresulovuo)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
